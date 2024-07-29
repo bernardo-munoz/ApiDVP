@@ -1,0 +1,17 @@
+D:\PruebaDVP\PruebaDVP\Persistence.Database\bin\Debug\net6.0\Persistence.Database.deps.json
+D:\PruebaDVP\PruebaDVP\Persistence.Database\bin\Debug\net6.0\Persistence.Database.dll
+D:\PruebaDVP\PruebaDVP\Persistence.Database\bin\Debug\net6.0\Persistence.Database.pdb
+D:\PruebaDVP\PruebaDVP\Persistence.Database\bin\Debug\net6.0\Domain.dll
+D:\PruebaDVP\PruebaDVP\Persistence.Database\bin\Debug\net6.0\Domain.pdb
+D:\PruebaDVP\PruebaDVP\Persistence.Database\obj\Debug\net6.0\Persistence.Database.csproj.AssemblyReference.cache
+D:\PruebaDVP\PruebaDVP\Persistence.Database\obj\Debug\net6.0\Persistence.Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\PruebaDVP\PruebaDVP\Persistence.Database\obj\Debug\net6.0\Persistence.Database.AssemblyInfoInputs.cache
+D:\PruebaDVP\PruebaDVP\Persistence.Database\obj\Debug\net6.0\Persistence.Database.AssemblyInfo.cs
+D:\PruebaDVP\PruebaDVP\Persistence.Database\obj\Debug\net6.0\Persistence.Database.csproj.CoreCompileInputs.cache
+D:\PruebaDVP\PruebaDVP\Persistence.Database\obj\Debug\net6.0\Persistence.Database.csproj.CopyComplete
+D:\PruebaDVP\PruebaDVP\Persistence.Database\obj\Debug\net6.0\Persistence.Database.dll
+D:\PruebaDVP\PruebaDVP\Persistence.Database\obj\Debug\net6.0\refint\Persistence.Database.dll
+D:\PruebaDVP\PruebaDVP\Persistence.Database\obj\Debug\net6.0\Persistence.Database.pdb
+D:\PruebaDVP\PruebaDVP\Persistence.Database\obj\Debug\net6.0\ref\Persistence.Database.dll
+D:\PruebaDVP\PruebaDVP\Persistence.Database\bin\Debug\net6.0\Persistence.Database.runtimeconfig.json
+D:\PruebaDVP\PruebaDVP\Persistence.Database\obj\Debug\net6.0\Persistence.Database.genruntimeconfig.cache

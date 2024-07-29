@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E20FEDC-DE7D-4472-B655-FDCF228F8B62}|Service.EventHandler\\Service.EventHandler.csproj|c:\\users\\m3za\\source\\repos\\pruebadvp\\service.eventhandler\\userscreateeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E20FEDC-DE7D-4472-B655-FDCF228F8B62}|Service.EventHandler\\Service.EventHandler.csproj|solutionrelative:service.eventhandler\\userscreateeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788FCBD4-2E17-403A-8B58-6D8F972C5CFC}|Service.Queries\\Service.Queries.csproj|c:\\users\\m3za\\source\\repos\\pruebadvp\\service.queries\\usersqueryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788FCBD4-2E17-403A-8B58-6D8F972C5CFC}|Service.Queries\\Service.Queries.csproj|solutionrelative:service.queries\\usersqueryservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E783E3D-8E5D-4AF4-B91A-A70C69259275}|Persons.API\\Persons.API.csproj|c:\\users\\m3za\\source\\repos\\pruebadvp\\persons.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E783E3D-8E5D-4AF4-B91A-A70C69259275}|Persons.API\\Persons.API.csproj|solutionrelative:persons.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E783E3D-8E5D-4AF4-B91A-A70C69259275}|Persons.API\\Persons.API.csproj|c:\\users\\m3za\\source\\repos\\pruebadvp\\persons.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E783E3D-8E5D-4AF4-B91A-A70C69259275}|Persons.API\\Persons.API.csproj|solutionrelative:persons.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E783E3D-8E5D-4AF4-B91A-A70C69259275}|Persons.API\\Persons.API.csproj|c:\\users\\m3za\\source\\repos\\pruebadvp\\persons.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E783E3D-8E5D-4AF4-B91A-A70C69259275}|Persons.API\\Persons.API.csproj|solutionrelative:persons.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{788FCBD4-2E17-403A-8B58-6D8F972C5CFC}|Service.Queries\\Service.Queries.csproj|c:\\users\\m3za\\source\\repos\\pruebadvp\\service.queries\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788FCBD4-2E17-403A-8B58-6D8F972C5CFC}|Service.Queries\\Service.Queries.csproj|solutionrelative:service.queries\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E20FEDC-DE7D-4472-B655-FDCF228F8B62}|Service.EventHandler\\Service.EventHandler.csproj|c:\\users\\m3za\\source\\repos\\pruebadvp\\service.eventhandler\\commands\\personcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E20FEDC-DE7D-4472-B655-FDCF228F8B62}|Service.EventHandler\\Service.EventHandler.csproj|solutionrelative:service.eventhandler\\commands\\personcreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E20FEDC-DE7D-4472-B655-FDCF228F8B62}|Service.EventHandler\\Service.EventHandler.csproj|c:\\users\\m3za\\source\\repos\\pruebadvp\\service.eventhandler\\commands\\userscreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E20FEDC-DE7D-4472-B655-FDCF228F8B62}|Service.EventHandler\\Service.EventHandler.csproj|solutionrelative:service.eventhandler\\commands\\userscreatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E20FEDC-DE7D-4472-B655-FDCF228F8B62}|Service.EventHandler\\Service.EventHandler.csproj|c:\\users\\m3za\\source\\repos\\pruebadvp\\service.eventhandler\\personcreateeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E20FEDC-DE7D-4472-B655-FDCF228F8B62}|Service.EventHandler\\Service.EventHandler.csproj|solutionrelative:service.eventhandler\\personcreateeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E783E3D-8E5D-4AF4-B91A-A70C69259275}|Persons.API\\Persons.API.csproj|c:\\users\\m3za\\source\\repos\\pruebadvp\\persons.api\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E783E3D-8E5D-4AF4-B91A-A70C69259275}|Persons.API\\Persons.API.csproj|solutionrelative:persons.api\\controllers\\personscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Service.Queries\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Service.Queries\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Service.Queries\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Service.Queries\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:09:46.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersQueryServices.cs",
+              "DocumentMoniker": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Service.Queries\\UsersQueryServices.cs",
+              "RelativeDocumentMoniker": "Service.Queries\\UsersQueryServices.cs",
+              "ToolTip": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Service.Queries\\UsersQueryServices.cs",
+              "RelativeToolTip": "Service.Queries\\UsersQueryServices.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAH4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:03:52.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Persons.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Persons.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Persons.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Persons.API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAQwDEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:44:59.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersCreateEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Service.EventHandler\\UsersCreateEventHandler.cs",
+              "RelativeDocumentMoniker": "Service.EventHandler\\UsersCreateEventHandler.cs",
+              "ToolTip": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Service.EventHandler\\UsersCreateEventHandler.cs",
+              "RelativeToolTip": "Service.EventHandler\\UsersCreateEventHandler.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAswDkAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:40:48.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersCreateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Service.EventHandler\\Commands\\UsersCreateCommand.cs",
+              "RelativeDocumentMoniker": "Service.EventHandler\\Commands\\UsersCreateCommand.cs",
+              "ToolTip": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Service.EventHandler\\Commands\\UsersCreateCommand.cs",
+              "RelativeToolTip": "Service.EventHandler\\Commands\\UsersCreateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T20:24:46.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PersonsController.cs",
+              "DocumentMoniker": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Persons.API\\Controllers\\PersonsController.cs",
+              "RelativeDocumentMoniker": "Persons.API\\Controllers\\PersonsController.cs",
+              "ToolTip": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Persons.API\\Controllers\\PersonsController.cs",
+              "RelativeToolTip": "Persons.API\\Controllers\\PersonsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:40:31.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Persons.API\\Program.cs",
+              "RelativeDocumentMoniker": "Persons.API\\Program.cs",
+              "ToolTip": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Persons.API\\Program.cs",
+              "RelativeToolTip": "Persons.API\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAjwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:37:44.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonCreateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Service.EventHandler\\Commands\\PersonCreateCommand.cs",
+              "RelativeDocumentMoniker": "Service.EventHandler\\Commands\\PersonCreateCommand.cs",
+              "ToolTip": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Service.EventHandler\\Commands\\PersonCreateCommand.cs",
+              "RelativeToolTip": "Service.EventHandler\\Commands\\PersonCreateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:30:45.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Persons.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Persons.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Persons.API\\appsettings.json",
+              "RelativeToolTip": "Persons.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T15:25:07.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PersonCreateEventHandler.cs",
+              "DocumentMoniker": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Service.EventHandler\\PersonCreateEventHandler.cs",
+              "RelativeDocumentMoniker": "Service.EventHandler\\PersonCreateEventHandler.cs",
+              "ToolTip": "C:\\Users\\M3za\\source\\repos\\PruebaDVP\\Service.EventHandler\\PersonCreateEventHandler.cs",
+              "RelativeToolTip": "Service.EventHandler\\PersonCreateEventHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T15:30:03.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
